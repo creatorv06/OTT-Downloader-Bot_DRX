@@ -21,5 +21,5 @@
 
 
 
-##       Telegram @AnnihilusOP_bot 
+##       Telegram @Developerltr_bot
 ###         Share and support us
